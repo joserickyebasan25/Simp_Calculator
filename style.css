@@ -37,6 +37,7 @@ body {
 .calc-container {
   background: #39495b;
   padding: 20px;
+  margin-top: 20px;
   border-radius: 8px;
   width: 100%;
   max-width: 340px;
@@ -86,3 +87,4 @@ button:hover {
   background: #7285f2;
   font-weight: bold;
 }
+
